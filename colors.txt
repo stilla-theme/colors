@@ -1,0 +1,4 @@
+bg ODODOD
+bg-alt 121414
+fg F2F2F2
+fg-alt BFC7D5
